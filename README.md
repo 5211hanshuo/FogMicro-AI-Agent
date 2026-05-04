@@ -76,3 +76,7 @@ Applied to fog observations during the 2025 monsoon season in Motuo:
 ## 📌 Status
 
 Actively used in atmospheric science research.
+
+
+### 🔁 Workflow Demo
+![Workflow](./image.png)
